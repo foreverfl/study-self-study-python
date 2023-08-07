@@ -1,6 +1,4 @@
-# -Book-Python-SelfStudyPython
-## 제목
-혼자 공부하는 파이썬*(개인 학습용)*
+# [학습자료] 혼자 공부하는 파이썬
 
 ## 목차
 - Chapter 01 파이썬 시작하기
